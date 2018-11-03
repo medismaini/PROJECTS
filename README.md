@@ -1,4 +1,4 @@
-# Demo App for working with Ethereum from JS
+# Demo of Cryptocurrency Wallet working with Ethereum from JS
 
 That's a sample application to demonstrate working with Ethereum from js using web3.js and ethereumjs-tx.
 
